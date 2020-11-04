@@ -1,0 +1,9 @@
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\bin\Debug\PT5_Multiuser.exe
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\bin\Debug\PT5_Multiuser.pdb
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\bin\Debug\PT5_Multiuser.xml
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.Form1.resources
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.Resources.resources
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.vbproj.GenerateResource.Cache
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.exe
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.xml
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT5_15101152610366_AnggaRomiSaputra\PT5_Multiuser\PT5_Multiuser\obj\x86\Debug\PT5_Multiuser.pdb
