@@ -12,3 +12,4 @@ NoBP : 15101152610366
 * [Latihan Pertemuan 3](https://github.com/AnggaR96s/MultiUser/tree/pt3)
 * [Latihan Pertemuan 4](https://github.com/AnggaR96s/MultiUser/tree/pt4)
 * [Latihan Pertemuan 5](https://github.com/AnggaR96s/MultiUser/tree/pt5)
+* [Latihan Pertemuan 6](https://github.com/AnggaR96s/MultiUser/tree/pt6)
