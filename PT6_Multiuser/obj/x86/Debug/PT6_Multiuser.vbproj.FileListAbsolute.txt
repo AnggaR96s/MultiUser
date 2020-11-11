@@ -1,0 +1,9 @@
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\bin\Debug\PT6_Multiuser.exe
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\bin\Debug\PT6_Multiuser.pdb
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\bin\Debug\PT6_Multiuser.xml
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.Resources.resources
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.vbproj.GenerateResource.Cache
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.exe
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.xml
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.pdb
+C:\Users\YGGRITE\Documents\MULTIUSER_15101152610366_ANGGA ROMI SAPUTRA\PT6_15101152610366_AnggaRomiSaputra\PT6_Multiuser\PT6_Multiuser\obj\x86\Debug\PT6_Multiuser.PT6_15101152610366_AnggaRomiSaputra.resources
